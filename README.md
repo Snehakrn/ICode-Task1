@@ -24,9 +24,6 @@ Use the filter buttons at the top to view either completed or pending tasks.
 ## Contributing 🤝
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request.
 
-## License 📄
-This project is licensed under the MIT License.
-
 ## Contact 📬
 If you have any questions, suggestions, or feedback, please feel free to reach out to us at karnsneha2003@gmail.com.
 
